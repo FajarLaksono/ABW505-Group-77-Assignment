@@ -1,4 +1,4 @@
-# ABW505-Group-77-Assignment
+# ABW505-Group-77-Assignment - Library Book Borrowing System
 ABW505 Group 77 Assignment - Data Programming And Predictive Analytics for Business
 
 23201507 - Fajar Aziz Laksono
